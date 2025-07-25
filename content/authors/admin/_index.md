@@ -47,7 +47,7 @@ profiles:
 
 ## Hello，
 <div style="text-align: justify; line-height: 1.8;">
-🎓
+🧑‍💻
 I am a Ph.D. student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students.
 <br>
 ✨

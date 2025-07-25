@@ -1,4 +1,4 @@
-.author-avatar {
-  width: 300px !important;
-  height: auto !important;
+img[src*="avatar.jpg"] {
+  width: 250px !important;
+  height: 250px !important;
 }

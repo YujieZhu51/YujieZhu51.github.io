@@ -6,7 +6,7 @@ cms_exclude: true
 view: card
 
 filters:
-  featured_only: true
+  featured_only: true 
 
 # Optional header image (relative to `static/media/` folder).
 banner:

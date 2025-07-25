@@ -17,11 +17,17 @@ type: page
 
 </div>
 
-## 🏜️ Desert Grass Grid Restoration
-![Desert Grid Work](/uploads/desert.jpg)
-Participated in ecological restoration work in the Gobi Desert by building straw checkerboard barriers to reduce wind erosion.
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-top: 1rem; margin-bottom: 2rem; flex-wrap: nowrap;">
 
----
+  <img src="/uploads/desert.jpg" alt="Desert Work" style="max-width: 250px; border-radius: 12px; flex-shrink: 0;">
+
+  <div style="flex: 1;">
+    <strong>🗓 July 2022</strong><br>
+    <strong>📍 Dunhuang, Gansu Province, China</strong><br><br>
+    Helped build straw checkerboards in the desert to support local wind erosion control efforts.
+  </div>
+
+</div>
 
 ## 🧓 Elderly Care Volunteer
 ![Elderly Volunteer](/uploads/letter.jpg)

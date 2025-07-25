@@ -31,6 +31,16 @@ type: page
 
 </div>
 
-## 🧓 Elderly Care Volunteer
-![Elderly Volunteer](/uploads/letter.jpg)
-Volunteered at a local elderly care center, providing companionship and helping with basic needs and wellness checks.
+## 💌 Letter Companion for Left-behind Children
+
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-top: 1rem; margin-bottom: 2rem; flex-wrap: wrap;">
+
+  <img src="/uploads/letter.jpg" alt="Letter Volunteer" style="max-width: 250px; border-radius: 12px; flex-shrink: 0;">
+
+  <div>
+    <strong>🗓 September 2020 – June 2023</strong><br>
+    <strong>📍 Qijiaping Town, Yuanling County, Huaihua, Hunan Province, China</strong><br><br>
+    Wrote regular letters to accompany and support left-behind children, building lasting emotional connections over three years.
+  </div>
+
+</div>

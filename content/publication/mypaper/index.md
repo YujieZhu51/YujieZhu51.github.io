@@ -11,6 +11,7 @@ url_custom_name: "Link"
 image:
   filename: "featured.png"
   preview_only: false
+sharing: false
 ---
 
 ## Abstract

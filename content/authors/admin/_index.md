@@ -41,11 +41,7 @@ profiles:
     url: https://www.linkedin.com/in/yujie-zhu-1359a524b/
 
 
-Address:
-  1624 Deer Lakes Drive,
-  Buffalo, NY, 14228
 
-Email: yzhu68@buffalo.edu
   
 ---
 
@@ -55,3 +51,9 @@ I am a Ph.D. student in Computer Science at the University at Buffalo with a Pre
 I received my M.S. in Computer Engineering from New York University in 2024, with a GPA of 3.9.
 <br>
 I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with a GPA of 3.57, and was honored as an Outstanding Graduate of the Department of Mathematics.
+
+**🏠 Address:**  
+1624 Deer Lakes Drive,
+Buffalo, NY, 14228
+📧 **Email**  
+yzhu68@buffalo.edu

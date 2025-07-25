@@ -5,7 +5,7 @@ type: landing
 
 sections:
   - block: markdown
-    content: |
+    text: |
       ### Courses Taught
 
       - **Fall 2024**: CSE503 Introduction to Computer Science for Non Majors  

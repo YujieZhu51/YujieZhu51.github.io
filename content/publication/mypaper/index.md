@@ -8,7 +8,7 @@ tags: [Machine Learning, Deep Learning, COVID-19]
 projects: []
 url_pdf: "https://dl.acm.org/doi/abs/10.1145/3473465.3473472"
 image:
-  filename: "featured.png"  
+  filename: "covid.png"  
   preview_only: false
 ---
 

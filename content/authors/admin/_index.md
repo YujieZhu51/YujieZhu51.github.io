@@ -53,7 +53,6 @@ I received my M.S. in Computer Engineering from New York University in 2024, wit
 I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with a GPA of 3.57, and was honored as an Outstanding Graduate of the Department of Mathematics.
 <br>
 <br>
-<br>
 
 <span style="margin-left: 25em;"> **🏠 Address:**  
 <span style="margin-left: 25em;"> 1624 Deer Lakes Drive,

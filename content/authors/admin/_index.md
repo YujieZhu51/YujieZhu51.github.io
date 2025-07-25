@@ -52,12 +52,10 @@ I received my M.S. in Computer Engineering from New York University in 2024, wit
 <br>
 I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with a GPA of 3.57, and was honored as an Outstanding Graduate of the Department of Mathematics.
 <br>
-<span style="margin-left: 12em;"> **🏠 Address:**  
+<span style="margin-left: 20em;"> **🏠 Address:**  
+<span style="margin-left: 20em;"> 1624 Deer Lakes Drive,
 <br>
-<span style="margin-left: 12em;"> 1624 Deer Lakes Drive,
+<span style="margin-left: 20em;"> Buffalo, NY, 14228
 <br>
-<span style="margin-left: 12em;"> Buffalo, NY, 14228
-<br>
-<span style="margin-left: 12em;"> 📧 **Email**  
-<br>
-<span style="margin-left: 12em;"> yzhu68@buffalo.edu
+<span style="margin-left: 20em;"> 📧 **Email**  
+<span style="margin-left: 20em;"> yzhu68@buffalo.edu

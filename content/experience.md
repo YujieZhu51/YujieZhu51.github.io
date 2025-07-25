@@ -4,7 +4,9 @@ type: page
 ---
 
 ## 🇯🇵 Volunteer Teacher in Japan
-![Volunteer in Japan](/uploads/japan.JPG)
+<div style="text-align: center;">
+  <img src="/uploads/japan.JPG" alt="Volunteer in Japan" style="max-width: 60%; border-radius: 12px;">
+</div>
 Taught Japanese children basic computer science and English in rural schools during a summer volunteer program.
 
 ---

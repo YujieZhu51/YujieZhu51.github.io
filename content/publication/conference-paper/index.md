@@ -1,3 +1,5 @@
+
+featured: false
 <!--
 ---
 title: 'An example conference paper'

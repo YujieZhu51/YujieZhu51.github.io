@@ -1,6 +1,8 @@
 ---
 title: "Experience"
 type: page
+show_breadcrumb: false
+show_date: false
 ---
 
 ## 🇯🇵 Volunteer Teacher in Japan

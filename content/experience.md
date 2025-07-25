@@ -35,15 +35,13 @@ show_date: false
 
 ## 💌 Letter Writing to Left-Behind Children
 
-<div style="text-align: center; margin-top: 1rem;">
+<p align="center">
   <img src="/uploads/letter.jpg" alt="Drawing from child" style="max-width: 300px; border-radius: 12px; margin-bottom: 1rem;">
-</div>
+</p>
 
 **🗓 September 2020 – June 2023**  
 **📍 Qijiaping Town, Yuanling County, Huaihua, Hunan Province, China**
 
+
 Wrote regular letters to accompany and support left-behind children, building lasting emotional connections over three years.
 
-  </div>
-
-</div>

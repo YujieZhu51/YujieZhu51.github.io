@@ -51,9 +51,13 @@ I am a Ph.D. student in Computer Science at the University at Buffalo with a Pre
 I received my M.S. in Computer Engineering from New York University in 2024, with a GPA of 3.9.
 <br>
 I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with a GPA of 3.57, and was honored as an Outstanding Graduate of the Department of Mathematics.
-
-**🏠 Address:**  
-1624 Deer Lakes Drive,
-Buffalo, NY, 14228
-📧 **Email**  
-yzhu68@buffalo.edu
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp**🏠 Address:**  
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1624 Deer Lakes Drive,
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBuffalo, NY, 14228
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📧 **Email**  
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspyzhu68@buffalo.edu

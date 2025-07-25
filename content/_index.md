@@ -31,5 +31,18 @@ sections:
           size: cover
           position: center
           parallax: false
+    ---
+title: "Papers"
+type: page
+layout: blocks
+---
+
+- block: collection
+  content:
+    title: 
+    filters:
+      folders:
+        - publication
+      featured_only: true
   
 ---

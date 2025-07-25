@@ -16,6 +16,10 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+avatar:
+  filename: avatar.jpg
+  size: 200
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 

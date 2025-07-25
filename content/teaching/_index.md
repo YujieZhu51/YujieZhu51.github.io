@@ -14,10 +14,10 @@ sections:
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      markdown: |
+        - **Fall 2024**: CSE503 Introduction to Computer Science for Non Majors
+        - **Spring 2025**: CSE 531: Algorithm Analysis and Design
+  
     design:
-      view: article-grid
-      columns: 2
+      view: blank
 ---

@@ -4,11 +4,18 @@ type: page
 ---
 
 ## 🇯🇵 Volunteer Teacher in Japan
-<div style="text-align: center;">
-  <img src="/uploads/japan.JPG" alt="Volunteer in Japan" style="max-width: 60%; border-radius: 12px;">
-</div>
-Taught Japanese children basic computer science and English in rural schools during a summer volunteer program.
 
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-top: 1rem; margin-bottom: 2rem; flex-wrap: wrap;">
+
+  <img src="/uploads/japan.JPG" alt="Volunteer in Japan" style="max-width: 250px; border-radius: 12px; flex-shrink: 0;">
+
+  <div>
+    <strong>🗓 July – August 2019</strong><br>
+    <strong>📍 Hagi Koen Junior High School, Yamaguchi Prefecture, Japan</strong><br><br>
+    Taught English and Chinese culture to middle school students in rural Japan as part of a summer volunteer program.
+  </div>
+
+</div>
 ---
 
 ## 🏜️ Desert Grass Grid Restoration

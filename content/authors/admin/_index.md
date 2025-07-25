@@ -6,8 +6,8 @@ title: Yujie Zhu
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Yujie
+last_name: Zhu
 
 # Status emoji
 status:

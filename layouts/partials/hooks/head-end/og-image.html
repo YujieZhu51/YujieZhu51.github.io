@@ -1,2 +1,5 @@
-<meta property="og:image" content="https://yujiezhu51.github.io/uploads/icon.jpg" />
-<meta name="twitter:image" content="https://yujiezhu51.github.io/uploads/icon.jpg" />
+{{ with site.Params.marketing.seo.image }}
+  <meta property="og:image" content="{{ . | absURL }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}

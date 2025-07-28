@@ -1,0 +1,5 @@
+{{ with site.Params.sharing_image }}
+  <meta property="og:image" content="{{ . | absURL }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}

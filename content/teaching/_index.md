@@ -6,5 +6,5 @@ type: page
 
 ## 📘 TA Courses
 
-- **Fall 2024**: CSE503 Introduction to Computer Science for Non Majors  
+- **Fall 2024**: CSE503 Introduction to Computer Science for Non CS Majors  
 - **Spring 2025**: CSE531 Algorithm Analysis and Design

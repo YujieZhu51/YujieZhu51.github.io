@@ -18,7 +18,7 @@ superuser: true
 
 avatar:
   filename: avatar.jpg
-  size: 200
+  size: 400
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

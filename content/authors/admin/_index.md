@@ -53,10 +53,10 @@ profiles:
 I am a Ph.D. student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students.
 <br>
 ✨
-I received my M.S. in Computer Engineering from New York University in 2024, with a <strong>GPA of 3.9</strong>.
+I received my M.S. in Computer Engineering from New York University in 2024, with <strong>GPA of 3.9</strong>.
 <br>
 ✨
-I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with a GPA of 3.57, and was honored as an <strong>Outstanding Graduate</strong> of the Department of Mathematics.
+I received my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, with GPA of 3.57, and was honored as an <strong>Outstanding Graduate</strong> of the Department of Mathematics.
 <br>
 <br>
 </div>

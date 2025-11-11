@@ -33,13 +33,13 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+<!-- - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yujie-zhu-1359a524b/   
+-->
 profiles:
   - icon: at-symbol
     url: 'mailto:yzhu68@buffalo.edu'
     label: E-mail Me
-  <!-- - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yujie-zhu-1359a524b/   
-    -->
   - icon: brands/github
     url: https://github.com/YujieZhu51
 

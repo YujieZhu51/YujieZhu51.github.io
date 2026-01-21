@@ -38,7 +38,7 @@ profiles:
     url: 'mailto:yzhu68@buffalo.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    #url: https://www.linkedin.com/in/yujie-zhu-1359a524b/
+    url: https://www.linkedin.com/in/yujie-zhu-1359a524b/
   - icon: brands/github
     url: https://github.com/YujieZhu51
 

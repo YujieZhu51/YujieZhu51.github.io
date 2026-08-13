@@ -53,9 +53,7 @@ profiles:
 <br>
 ✨
 I pursued the Research Track M.S. in Computer Science at the University at Buffalo, where I was awarded a <strong>Presidential Fellowship</strong> and achieved a GPA of 3.94. <br>
-
 <!--I am a Ph.D. student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students.-->
-<br>
 ✨
 I received my M.S. in Computer Engineering from New York University in 2024, with <strong>GPA of 3.9</strong> and $7000 scholarship.
 <br>

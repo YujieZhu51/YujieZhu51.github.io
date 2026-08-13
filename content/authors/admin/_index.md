@@ -50,8 +50,8 @@ profiles:
 ## Hello，
 <div style="text-align: justify; line-height: 1.8;">
 🧑‍💻 I am a founding member of <strong>Aurora US Consulting</strong>, where I work on technology-driven projects.
+<br>
 ✨
-  
 I pursued the Research Track M.S. in Computer Science at the University at Buffalo, where I was awarded a <strong>Presidential Fellowship</strong> and achieved a GPA of 3.94. <br>
 
 <!--I am a Ph.D. student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students.-->

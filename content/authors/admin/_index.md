@@ -49,8 +49,11 @@ profiles:
 
 ## Hello，
 <div style="text-align: justify; line-height: 1.8;">
-🧑‍💻
-I am a PhD student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students, and with GPA of 3.94.
+🧑‍💻 I am a founding member of <strong>Aurora US Consulting</strong>, where I work on technology-driven projects.
+✨
+  
+I pursued the Research Track M.S. in Computer Science at the University at Buffalo, where I was awarded a <strong>Presidential Fellowship</strong> and achieved a GPA of 3.94. <br>
+
 <!--I am a Ph.D. student in Computer Science at the University at Buffalo with a <strong>Presidential Fellowship</strong>, the university’s highest scholarship for graduate students.-->
 <br>
 ✨
@@ -64,9 +67,9 @@ I received my B.S. in Applied Mathematics from the Southern University of Scienc
 
 
 <span style="margin-left: 25em;"> **🏠 Address:**  
-<span style="margin-left: 25em;"> 1624 Deer Lakes Drive,
+<span style="margin-left: 25em;"> 400 Claremont Ave,
 <br>
-<span style="margin-left: 25em;"> Buffalo, NY, 14228
+<span style="margin-left: 25em;"> Jesery City, NJ, 07304
 <br>
 <span style="margin-left: 25em;"> 📧 **Email**  
 <span style="margin-left: 25em;"> yzhu68@buffalo.edu

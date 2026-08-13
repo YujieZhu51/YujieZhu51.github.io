@@ -28,8 +28,8 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University at Buffalo
-    url: https://engineering.buffalo.edu/computer-science-engineering.html
+  - name: Aurora US Consulting LLC
+    url: https://aurorausconsulting.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,7 +49,7 @@ profiles:
 
 ## Hello，
 <div style="text-align: justify; line-height: 1.8;">
-🧑‍💻 I am a founding member of <strong>Aurora US Consulting</strong>, where I work on technology-driven projects.
+🧑‍💻 I am a founding member of <strong>Aurora US Consulting LLC</strong>, where I work on technology-driven projects.
 <br>
 ✨
 I pursued the Research Track M.S. in Computer Science at the University at Buffalo, where I was awarded a <strong>Presidential Fellowship</strong> and achieved a GPA of 3.94. <br>

@@ -36,7 +36,7 @@ tags: [Fine-Grained Classification, Vision-Language Models, Label-Free Region Sc
 url_custom: "https://arxiv.org/abs/2607.13437"
 url_custom_name: "Link"
 image:
-  filename: "featured.png"
+  filename: "CLIP.jpg"
   preview_only: false
 sharing: false
 ---
